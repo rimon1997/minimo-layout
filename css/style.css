@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 10px 0;
+}
+
+header{
+
+background-color: chocolate;
+
+width: 90%;
+
+margin: auto;
+
+overflow: hidden;
+
+height: 60px;
+}
+        .logo{
+        
+background-color: cadetblue;
+        
+width: 20%;
+        
+float: left;
+        
+margin: 15px 0;
+        }
+        .logo img{
+        
+        }
+        
+        .menu{
+        
+background-color: cornflowerblue;
+        
+width: 80%;
+        
+margin: 15px 0;
+        
+float: right;
+        }
+        .menu ul{
+        
+float: right;
+        }
+        .menu li{
+        
+float: left;
+        
+margin-left: 40px;
+        
+list-style: none;
+        
+text-transform: uppercase;
+        }
+        .menu a{
+        
+text-decoration: none;
+        }
